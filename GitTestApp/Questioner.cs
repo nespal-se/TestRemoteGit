@@ -11,6 +11,7 @@ namespace GitTestApp
         public static void AskQuestion()
         {
             Console.WriteLine("Как дела?");
+            // some changes...
         }
     }
 }
