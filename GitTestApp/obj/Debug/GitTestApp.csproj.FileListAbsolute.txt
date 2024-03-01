@@ -1,0 +1,7 @@
+C:\Work\Learning Git\GitTestApp\bin\Debug\GitTestApp.exe.config
+C:\Work\Learning Git\GitTestApp\bin\Debug\GitTestApp.exe
+C:\Work\Learning Git\GitTestApp\bin\Debug\GitTestApp.pdb
+C:\Work\Learning Git\GitTestApp\obj\Debug\GitTestApp.csprojAssemblyReference.cache
+C:\Work\Learning Git\GitTestApp\obj\Debug\GitTestApp.csproj.CoreCompileInputs.cache
+C:\Work\Learning Git\GitTestApp\obj\Debug\GitTestApp.exe
+C:\Work\Learning Git\GitTestApp\obj\Debug\GitTestApp.pdb
