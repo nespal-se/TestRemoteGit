@@ -13,6 +13,7 @@ namespace GitTestApp
             Console.WriteLine("Я готов!");
             // вторая строка в консоли
             Console.WriteLine("Еее!");
+            // any changes 3...
             Console.ReadKey();
         }
     }
