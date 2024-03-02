@@ -12,6 +12,7 @@ namespace GitTestApp
         {
             Console.WriteLine("Как дела?");
             // some changes...
+            // any changes 3
         }
     }
 }
